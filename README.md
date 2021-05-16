@@ -1,2 +1,3 @@
 # Netflix
-This is a clone of Netflix landing page
+A Clone of Netflix Landing page 
+Technologies used (Html, Css, Js, Jquery)
